@@ -9,7 +9,7 @@ It provides 26 specialized agents, 122 skills (including 7 UI/UX design intellig
 
 - **agents/** - 26 specialized agent definitions for Claude Code
 - **skills/** - 122 workflow skills and domain knowledge (including ui-ux-pro-max, design, design-system, ui-styling, brand, slides, banner-design)
-- **commands/** - 65 slash commands (/tdd, /plan, /e2e, /code-review, /code-graph-build, /code-graph-review, etc.)
+- **commands/** - 66 slash commands (/tdd, /plan, /e2e, /code-review, /code-graph-build, /code-graph-review, etc.)
 - **hooks/** - Trigger-based automations (session persistence, pre/post-tool hooks)
 - **rules/** - Language-specific guidelines (common, TypeScript, Python, Go, Kotlin, C++, Perl, PHP, Swift)
 - **orchestration/** - Multi-agent swarm coordination via claude-flow
